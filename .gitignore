@@ -1,0 +1,5 @@
+*.ipynb checkpoints
+*.db
+*.csv
+*.tsv
+*.pdf
