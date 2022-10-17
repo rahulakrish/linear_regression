@@ -1,7 +1,7 @@
 # Phase_2 Project
 
 ## Description
-  To help clients estimate selling prices of their home based on established factors. Also, to recommend how they can improve their home values 
+  To help clients estimate selling prices of their home based on established factors. Also, to recommend any renovations that can be made to improve the resale value of the house
   
 ## Data Source
   King County House Sales dataset, which can be found in kc_house_data.csv
@@ -24,3 +24,10 @@ Model diagnostics : Using metrics like R-squared, RMSE values and Q-Q plots to i
 
 ### Step-5 
 Interpret the coeffecients of the predictor variables and pick out 2 to recommend to clients that will have the highest effect on the sale price of a house.
+
+## Model Results
+
+![image](https://user-images.githubusercontent.com/108379254/196297573-d63eee13-725c-4f1c-8027-4661e6b71dde.png)
+
+## Conclusions
+Being on the waterfront is the most valuable asset when it comes to selling the house. It increases the value by nearly 50%. A unit increase in the grade, number of bathrooms and condition of the house yield 17.6%, 7.2% and 5.5% increase respectively
