@@ -1,3 +1,3 @@
-# Linear Regression model to predict housing prices in King's County
+# Predict housing prices in King's County
 
 
