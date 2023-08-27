@@ -4,3 +4,9 @@
 *.txt
 *.ppt
 *.pptx
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.xml
